@@ -9,9 +9,9 @@
 
 - 🌱 I’m currently learning **React, NextJS**
 
-- 👨‍💻 All of my projects are available at [suankc.com.np](suankc.com.np)
+- 👨‍💻 All of my projects are available at ([https://suankc.com.np](https://suankc.com.np/))
 
-- 📝 I regularly write articles on [blog.suankc.com.np](blog.suankc.com.np)
+- 📝 I regularly write articles on (https://blog.suankc.com.np/)
 
 - 📫 How to reach me **kcsuan424@gmail.com**
 
