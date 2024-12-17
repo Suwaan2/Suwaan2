@@ -1,5 +1,5 @@
 <h1 align="center">
- <img src="[https://media.tenor.com/CzdMW7wnLn8AAAAM/coding.gif](https://www.digitalsolutionservices.com/img/services/web%20development.gif)" />
+ <img src="https://media.tenor.com/CzdMW7wnLn8AAAAM/coding.gif" />
 </h1>
 <h1 align="center">Hi 👋, I'm Suan KC</h1>
 <h3 align="center">A passionate frontend developer from Nepal</h3>
